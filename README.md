@@ -27,7 +27,7 @@ The Amazon beauty ratings dataset can be obtained from Kaggle - https://www.kagg
 
 Dataset consists of Userid's, Ratings, Product id and timestamp. Dataset contains more than 2M records.
 
-# Data Exploration & # Model 
+# Data Exploration & Model 
 
 Used cosine similarity to calculate the similarity between products. 
 
